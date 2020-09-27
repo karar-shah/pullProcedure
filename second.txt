@@ -1,2 +1,4 @@
 ak
 dow
+teen
+char
